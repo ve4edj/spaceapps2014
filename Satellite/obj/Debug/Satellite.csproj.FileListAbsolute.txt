@@ -1,0 +1,5 @@
+\\psf\Home\Downloads\csOrbitTools\Satellite\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Downloads\csOrbitTools\Satellite\bin\Debug\SatelliteTools.Satellite.dll
+\\psf\Home\Downloads\csOrbitTools\Satellite\bin\Debug\SatelliteTools.Satellite.pdb
+\\psf\Home\Downloads\csOrbitTools\Satellite\obj\Debug\SatelliteTools.Satellite.dll
+\\psf\Home\Downloads\csOrbitTools\Satellite\obj\Debug\SatelliteTools.Satellite.pdb

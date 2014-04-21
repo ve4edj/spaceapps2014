@@ -1,0 +1,5 @@
+\\psf\Home\Downloads\csOrbitTools\OrbitTools\Core\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Downloads\csOrbitTools\OrbitTools\Core\bin\Debug\OrbitTools.Core.dll
+\\psf\Home\Downloads\csOrbitTools\OrbitTools\Core\bin\Debug\OrbitTools.Core.pdb
+\\psf\Home\Downloads\csOrbitTools\OrbitTools\Core\obj\Debug\OrbitTools.Core.dll
+\\psf\Home\Downloads\csOrbitTools\OrbitTools\Core\obj\Debug\OrbitTools.Core.pdb
